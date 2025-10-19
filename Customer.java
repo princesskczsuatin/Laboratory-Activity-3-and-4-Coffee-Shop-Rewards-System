@@ -1,4 +1,4 @@
-class Customer {
+public class Customer {
     String name;
     int points;
     static int totalCustomers = 0;
